@@ -5,4 +5,4 @@ Dota 2 dimainkan oleh 2 team yang beranggota 5 orang pemain, setiap tim memiliki
 
 Anda bisa mendaftar dan download Dota 2 ini di [Steam](http://store.steampowered.com/)
 ### Dota 2 Trailer
-[video](https://www.youtube.com/embed/SmnqsdeHFT0)
+[click here](https://www.youtube.com/embed/SmnqsdeHFT0)
